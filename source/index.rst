@@ -14,11 +14,4 @@ Welcome to CPlusPlus's documentation!
 
    variable_type
    functions
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   classes
