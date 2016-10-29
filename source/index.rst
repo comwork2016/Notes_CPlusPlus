@@ -15,3 +15,4 @@ Welcome to CPlusPlus's documentation!
    variable_type
    functions
    classes
+   io
